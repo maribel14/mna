@@ -1,1 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    /*background: url(img/login.jpeg);*/
+    /*background-image:url(login.jepg);*/
+    background-color: rgb(152, 250, 168);
+}
